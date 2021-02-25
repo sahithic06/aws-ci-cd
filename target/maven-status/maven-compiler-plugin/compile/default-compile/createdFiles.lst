@@ -1,0 +1,4 @@
+com\cisco\code\aws\myapp\MyAppApplication.class
+com\cisco\code\aws\myapp\pojo\Host.class
+com\cisco\code\aws\myapp\controller\MyController.class
+com\cisco\code\aws\myapp\repository\HostRepository.class
